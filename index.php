@@ -24,8 +24,8 @@
                                 Olá PHP
                             </a>
                             </li>
-                            <li><a href="#">Exercício B</a></li>
-                            <li><a href="#">Exercício C</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=html">Integração HTML</a></li>
+                            <li><a href="exercicio.php?dir=basico&file=css">Integração CSS</a></li>
                         </ul>
                     </div>
                     <div class="modulo vermelho">
